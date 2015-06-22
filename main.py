@@ -17,3 +17,5 @@ with open('LoLData.csv', 'rU') as csvfile:
             teams.append(row['Team'])
 
     print teams
+
+print "haha, I have conqured!!!"
